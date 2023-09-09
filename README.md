@@ -11,9 +11,12 @@ nvm install lts
 
 Note that you cannot install create-react-app when you have an existing virtual environment in target folder. Run the following in your terminal to check successful installation:
 ```
+node -v
 
+npm -v
 ```
 
+The above scripts should display the versions of the packages.
 
 # Getting Started with Create React App
 
